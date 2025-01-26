@@ -24,9 +24,8 @@ Installation
 Follow these steps to set up the environment and run the project:
 
 Clone this repository to your local machine:
-bash
-Copy
 git clone https://github.com/arnavhemdan/spam-ham-detection.git
+
 Navigate to the project folder:
 bash
 Copy
